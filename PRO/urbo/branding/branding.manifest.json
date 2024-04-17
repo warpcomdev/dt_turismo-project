@@ -1,0 +1,10 @@
+{
+    "theme": true,
+    "favicon": true,
+	"loginView": "fullImage",
+    "i18n": [
+        { "id": "es", "label": "Castellano", "isDefault": true },
+        { "id": "pt", "label": "Portugués", "isDefault": false },
+        { "id": "en", "label": "English", "isDefault": false }
+    ]
+}
